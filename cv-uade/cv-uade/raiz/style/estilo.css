@@ -1,0 +1,50 @@
+.principal {
+  font-family: "Trebuchet MS";
+  font-size: large;
+  color: rgba(16, 22, 54, 1);
+}
+@media screen and (max-width: 900px) {
+  .titulo-head2,
+  .titulo-head{
+    font-size: 10px;
+  }
+.div-header{
+    font-size: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+  .links-nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 2px;
+  }
+ 
+  .nav-links {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    font-size: 5px;
+  }
+  .tipo-presentacion{
+    font-size: 10px;
+    color: #3f72af;
+  }
+  .presentacion{
+    font-size: 10px;
+  }
+  .cara{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+  }
+  .tipo-footer{
+    font-size: 20px;
+  }
+
+}
+
